@@ -260,8 +260,8 @@ wordcloud(words$word, words$n, random.order = FALSE, random.color = TRUE,
           rot.per = 0.3, colors = 1:nrow(words))
 
 
-#write_csv(videostats,"tseriesVideo.csv")
-#write_csv(videos,"tseriesVideosALL.csv")
+# write_csv(videostats,"PewDiePieStats.csv")
+# write_csv(videos,"PewDiePieVideosALL.csv")
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
